@@ -16,3 +16,5 @@ coverage/
 .history/
 .vscode/
 .idea/
+
+.gitignore
